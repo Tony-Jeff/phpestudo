@@ -1,5 +1,7 @@
 <?php
 
-echo "Olá Mundo!!! <strong>código em PHP para teste</strong>";
+echo "Olá Mundo!!!";
+
+echo "olá Tony!";
 
 ?>
